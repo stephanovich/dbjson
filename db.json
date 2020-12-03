@@ -1,4 +1,5 @@
-[
+{
+  "vga": [
     {
       "id": 1,
       "modelo": "gtx 1660",
@@ -6,9 +7,16 @@
       "baseClock": "1530"
     },
     {
-      "id": 1,
+      "id": 2,
+      "modelo": "gtx 1660",
+      "boostClock": "1785",
+      "baseClock": "1530"
+    },
+    {
+      "id": 3,
       "modelo": "gtx 1660",
       "boostClock": "1785",
       "baseClock": "1530"
     }
-]
+  ]
+}
